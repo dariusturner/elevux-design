@@ -1,0 +1,29 @@
+#content .title {
+  font-size: 3em;
+  width: 30%;
+  top: 30%;
+  left: 20%;
+  text-transform: capitalize;
+}
+#content .caption {
+  top: 40%;
+  left: 31%;
+  width: 265px;
+}
+#pageBtns {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 30vw;
+  background: rgba(85, 39, 229, 0.6);
+}
+.btn {
+  background: rgba(85, 39, 229, 0.6);
+  border: none;
+  color: #fff;
+  font-size: 14px;
+  font-weight: bold;
+  outline: none;
+  width: 50%;
+  height: 100px;
+}

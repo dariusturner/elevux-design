@@ -1,0 +1,28 @@
+@media screen and (max-width: 1380px), (max-width: 1366px) and (max-height: 1024px) {
+    body, .App {
+      max-height: 100vh;
+      overflow: hidden!important;
+      width: 100vw;
+    }
+    #content .title {
+      text-align: center;
+      width: 80%!important;
+      top: 15%!important;
+      left: 10%!important;
+    }
+    #content .caption {
+      text-align: center;
+      left: 10%!important;
+      width: 80vw!important;
+    }
+    #pageBtns {
+      width: 100vw!important;
+    }
+  }
+  
+  @media screen and (max-width: 375px) {
+    #content .title {
+      font-size: 2em!important;
+      width: 80%!important;
+    }
+  }
