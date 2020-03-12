@@ -5,6 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Javascript
 - HTML
 - CSS
+- Mobile Responsive - Design made by me
 
 ## Available Scripts
 
