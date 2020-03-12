@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# This Web App was made using the following...
+- React
+- Javascript
+- HTML
+- CSS
+
 ## Available Scripts
 
 In the project directory, you can run:
